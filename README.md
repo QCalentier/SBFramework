@@ -1,1 +1,1 @@
-# SBFramework
+# SmartBridge Framework
